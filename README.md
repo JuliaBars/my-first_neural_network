@@ -13,4 +13,10 @@ That's all it takes to run with 97.05% efficiency.
 
 ---
 
+```
+Download MNIST data set in csv and put it into mnist_dataset/
+training set: pjreddie.com/media/files/mnist_train.csv
+test set: pjreddie.com/media/files/mnist_test.csv
+```
+
 _written with book Make Your Own Neural Network by Tariq Rashid_
