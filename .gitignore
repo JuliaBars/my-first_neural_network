@@ -1,0 +1,5 @@
+venv/
+mnist_dataset/
+file_read.py
+my-first_neural_network.ipynb
+project/matrix.py
